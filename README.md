@@ -2,7 +2,7 @@
 🚀 **Welcome to my world of code and creativity!**  
 I'm Cabdinaasir — a self-taught full-stack developer with a passion for building solutions that solve real-world problems, especially in education and community services.
 
----
+
 
 ### 🔧 Tech Stack & Tools
 
@@ -16,7 +16,7 @@ I'm Cabdinaasir — a self-taught full-stack developer with a passion for buildi
 | 🧪 Version Ctrl | Git & GitHub           |
 | 📲 Mobile Dev   | Flutter                |
 
----
+
 
 ### 👨‍🏫 What I Do
 
@@ -33,13 +33,13 @@ I'm Cabdinaasir — a self-taught full-stack developer with a passion for buildi
 - 💼 LinkedIn: [Cabdinaasir A.](https://www.linkedin.com/in/cabdinaasir124)
 - 🌐 Portfolio: [Coming Soon…]
 
----
+
 
 ### 💡 Fun Fact
 
 Once tried to automate my entire workflow with scripts — accidentally scheduled my PC to shut down every 10 minutes! 😅
 
----
+
 
 > _“Code with purpose, teach with passion.”_
 
