@@ -1,47 +1,46 @@
-## Hi there 👋 I'm Cabdinaasir
 
-🔧 A self-taught Full Stack Web & Mobile Developer from Somalia 🇸🇴  
-🎓 Founder of Naasir Tech | Educator | Content Creator  
-📺 I make tech videos in Somali and English to help beginners grow fast.
+🚀 **Welcome to my world of code and creativity!**  
+I'm Cabdinaasir — a self-taught full-stack developer with a passion for building solutions that solve real-world problems, especially in education and community services.
 
 ---
 
-### 💻 What I’m Working On
+### 🔧 Tech Stack & Tools
 
-- 🎓 A Scholarship Management System (PHP + React Native)
-- 🏫 School & University Management Systems (Admin Dashboard)
-- 🧭 Open-source Addressing System for Mogadishu, Somalia
-- 📹 Educational content for my YouTube channel [Naasir Tech](https://www.youtube.com/@NaasirTech)
-
----
-
-### 🌱 Currently Learning
-
-- 📱 Flutter (Cross-platform mobile apps)
-- 📊 Data Science basics
-- 🤖 Arduino (IoT & Electronics)
+| Category        | Favorite               |
+|----------------|------------------------|
+| 💻 Language     | PHP, JavaScript, Dart (Flutter) |
+| 🖥 OS           | Windows & Ubuntu       |
+| 🧠 Frameworks   | Laravel, Flutter       |
+| 📝 Editor       | Visual Studio Code     |
+| 🌐 Backend      | MySQL, REST APIs       |
+| 🧪 Version Ctrl | Git & GitHub           |
+| 📲 Mobile Dev   | Flutter                |
 
 ---
 
-### 🛠 Tech Stack
+### 👨‍🏫 What I Do
 
-- 💻 PHP, MySQL, JavaScript
-- 🌐 HTML, CSS, Bootstrap
-- ⚙️ AJAX, REST APIs
-- 📱 React Native (Mobile Apps)
-- 🖥️ VS Code, XAMPP, Git & GitHub
+- 🎓 Founder of **Xirfadeeye Academy** — spreading free digital skills.
+- 💡 Building open-source SaaS products (e.g., Scholarship Systems, School Management).
+- 📹 Creating educational content in English and Somali for YouTube and TikTok.
 
 ---
 
-### 📫 How to Reach Me
+### 🌍 Connect With Me
 
-- 📬 Telegram: [t.me/NaasirTech](https://t.me/NaasirTech)
-- 🎥 YouTube: [Naasir Tech](https://www.youtube.com/@NaasirTech)
-- 🌍 Website: [Coming soon...](#)
+- 📧 Email: cabdinaasir124@gmail.com
+- 🐦 Twitter: [@cabdinaasir124](https://twitter.com/cabdinaasir124)
+- 💼 LinkedIn: [Cabdinaasir A.](https://www.linkedin.com/in/cabdinaasir124)
+- 🌐 Portfolio: [Coming Soon…]
 
 ---
 
-### ⚡ Fun Fact  
-I enjoy solving real-world problems with simple software and sharing the knowledge with others.
+### 💡 Fun Fact
 
+Once tried to automate my entire workflow with scripts — accidentally scheduled my PC to shut down every 10 minutes! 😅
 
+---
+
+> _“Code with purpose, teach with passion.”_
+
+Thanks for visiting! 🚀
