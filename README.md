@@ -20,11 +20,11 @@ I'm Cabdinaasir — a self-taught full-stack developer with a passion for buildi
 
 ### 👨‍🏫 What I Do
 
-- 🎓 Founder of **Xirfadeeye Academy** — spreading free digital skills.
+- 🎓 mentor for **Xirfadeeye Academy** — spreading free digital skills.
 - 💡 Building open-source SaaS products (e.g., Scholarship Systems, School Management).
 - 📹 Creating educational content in English and Somali for YouTube and TikTok.
 
----
+
 
 ### 🌍 Connect With Me
 
